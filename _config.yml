@@ -4,7 +4,7 @@
 baseurl:
 url: https://teslamusk.me
 date_format: "ordinal"
-title: Blgo
+title: Blog
 subtitle: "Technology Finance"
 description: "Latest"
 keywords: Pytorch, Fastai, AWS, GCP
